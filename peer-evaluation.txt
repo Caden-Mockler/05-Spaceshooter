@@ -1,0 +1,38 @@
+Name:Bryce Whitmer
+Date:10/19/2019
+Project: SpaceShooter
+Peer's repository: https://github.com/Caden-Mockler/05-Spaceshooter.git
+
+
+
+What is something you learned by reviewing your peer's project?
+
+ 
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+
+ I would have liked to make my enemies move.
+
+What suggestions would you have for your peer to improve his/her code?
+
+ Make the enemies collide with the window so they dont just go off screen. 
+
+What could have been clearer or better commented?
+
+ The code was fine and didn't need to be any clearer.
+
+Was there anything in the code that was confusing to you? If so, what?
+
+ Nope.
+
+Does the repository contain an appropriate LICENSE?
+
+ Yes.
+
+What is something he/she could add to the README.md to make it more descriptive?
+
+ The README wasn't that descriptive but is fine.
+
+Pay a compliment to your peer based on the quality of his/her code.
+
+ The code was well made/modified and didn't crash or have any run time errors.
