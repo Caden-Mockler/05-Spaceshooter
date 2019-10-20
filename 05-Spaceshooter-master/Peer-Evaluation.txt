@@ -1,0 +1,38 @@
+Name: James Maxwell
+Date: 10/19/2019
+Project: Spaceshooter
+Peer's repository: https://github.com/Caden-Mockler/05-Spaceshooter.git
+
+
+
+What is something you learned by reviewing your peer's project?
+Sprites can be made to move off screen
+ 
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+Having enemies leave after a certain amount of time
+ 
+
+What suggestions would you have for your peer to improve his/her code?
+Make sure that the enemies don't spawn off screen and don't immediately leave
+Multiple levels
+ 
+
+What could have been clearer or better commented?
+The window class
+ 
+
+Was there anything in the code that was confusing to you? If so, what?
+No
+ 
+
+Does the repository contain an appropriate LICENSE?
+Yes
+ 
+
+What is something he/she could add to the README.md to make it more descriptive?
+Instructions on how to play
+ 
+
+Pay a compliment to your peer based on the quality of his/her code.
+The movement and firing is really smooth
